@@ -4,5 +4,12 @@ Wolfram has a large curated data resources, check their data repository. https:/
 
 The script can be easily modified to collect other kinds of data.
 
-A sample data input sheet
-<img >
+Sample data input sheet
+
+![](/sample_data_input.png)
+
+
+Sample data output sheet
+
+
+![](/sample_data_collected.png)
