@@ -1,4 +1,4 @@
-This the script for scraping weather data using Wolfram API and Mathematica.
+Scripts for scraping weather data using Wolfram API and Mathematica.
 
 Wolfram has a large curated data resources, check their data repository. https://datarepository.wolframcloud.com/.
 
